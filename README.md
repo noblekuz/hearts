@@ -1,2 +1,2 @@
 # hearts
-Support Kit for Emergency and Quarantine Self Quarantine cases. 
+Support Kit for Self Quarantine. 
